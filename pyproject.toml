@@ -1,6 +1,6 @@
 [project]
 name = "pl-llm-blocks"
-version = "0.0.11"
+version = "0.0.12"
 description = "Building blocks for programs using LLMs."
 readme = "README.md"
 authors = [{ name = "Peter Lavigne" }]
