@@ -24,7 +24,7 @@ Homepage = "https://github.com/Peter-Lavigne/pl-llm-blocks"
 Repository = "https://github.com/Peter-Lavigne/pl-llm-blocks"
 
 [build-system]
-requires = ["uv_build>=0.10.4,<0.11.0"]
+requires = ["uv_build>=0.10.4,<1"]
 build-backend = "uv_build"
 
 [dependency-groups]
